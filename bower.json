@@ -1,0 +1,21 @@
+{
+  "name": "tectus",
+  "description": "test",
+  "main": "",
+  "authors": [
+    "valerylitvinchuk <valery.litvinchuk@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "dev/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-css": "normalize.css#^5.0.0"
+  }
+}
